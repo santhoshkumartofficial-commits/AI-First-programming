@@ -21,7 +21,7 @@ Python Dictionaries and Dictionary Methods [Python_Dictionaries.ipynb]
 
 Python Loops (for, while, break, continue, pass) [Python_Loops.ipynb]
 
-ython Functions (Definition, Parameters, Return Values) [Python_Function_.ipynb]
+Python Functions (Definition, Parameters, Return Values) [Python_Function_.ipynb]
 
 
 
